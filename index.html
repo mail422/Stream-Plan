@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TheHotelier – Stream Schedule</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700;900&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="logo-badge">
+        <div class="keyhole-icon">
+          <img src="assets/logo/logo.png" alt="TheHotelier Logo" class="header-logo" />
+        </div>
+        <div class="logo-text">
+          <div class="logo-the" id="logoThe">THE</div>
+          <div class="logo-hotelier" id="logoHotelier">HOTELIER</div>
+        </div>
+      </div>
+
+      <div class="schedule-title" id="scheduleTitle">Stream Plan</div>
+      <div class="dot-row">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+      </div>
+      <div class="schedule-subtitle" id="scheduleSubtitle">twitch.tv/thehotelier</div>
+    </div>
+
+    <div class="separator">
+      <div class="separator-line"></div>
+      <div class="separator-diamond"></div>
+      <div class="separator-line"></div>
+    </div>
+
+    <div class="days-grid" id="daysGrid"></div>
+
+    <div class="separator separator-bottom">
+      <div class="separator-line"></div>
+      <div class="separator-diamond"></div>
+      <div class="separator-line"></div>
+    </div>
+
+    <div class="footer">
+      <a class="twitch-link" id="twitchLink" href="https://twitch.tv/thehotelier" target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714z"/>
+        </svg>
+        <span id="twitchText">twitch.tv/thehotelier</span>
+      </a>
+      <div class="footer-note" id="footerNote">Check-in täglich zwischen 16:00 &amp; 19:00 Uhr ✦ Solange der Vorrat reicht</div>
+    </div>
+  </div>
+
+  <template id="dayCardTemplate">
+    <div class="day-card">
+      <div class="day-label">
+        <div class="day-name"></div>
+        <div class="day-en"></div>
+      </div>
+      <div class="day-content">
+        <div class="day-main-row">
+          <div class="stream-info">
+            <div class="stream-time">
+              <svg class="time-icon" viewBox="0 0 24 24" fill="none" stroke="rgba(255,102,204,0.8)" stroke-width="2" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+              <span class="time-text"></span>
+            </div>
+            <div class="stream-category"></div>
+          </div>
+
+          <div class="stream-side">
+            <div class="stream-tag"></div>
+            <div class="stream-image-wrap">
+              <img class="stream-image" alt="Stream Bild" loading="lazy" />
+              <div class="stream-image-placeholder">Bild hier ablegen</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>

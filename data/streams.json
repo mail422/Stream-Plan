@@ -1,0 +1,45 @@
+{
+  "pageTitle": "TheHotelier – Stream Schedule",
+  "brand": {
+    "logoTop": "THE",
+    "logoMain": "HOTELIER"
+  },
+  "header": {
+    "title": "Stream Plan",
+    "subtitle": "twitch.tv/thehotelier"
+  },
+  "footer": {
+    "buttonText": "twitch.tv/thehotelier",
+    "buttonUrl": "https://twitch.tv/thehotelier",
+    "note": "Check-in täglich zwischen 16:00 & 19:00 Uhr ✦ Solange der Vorrat reicht"
+  },
+  "days": [
+    {
+      "day": "Freitag",
+      "dayEn": "Friday",
+      "time": "ca. 19:00 Uhr",
+      "title": "🎮 MAFIA: The Old Country // Kingdome Come Deliverance 2 // Mario maker 2",
+      "tag": "Live",
+      "image": "assets/images/freitag.jpg",
+      "imageAlt": "Freitag Stream Motiv"
+    },
+    {
+      "day": "Samstag",
+      "dayEn": "Saturday",
+      "time": "ca. 16:00 Uhr",
+      "title": "🎮 MAFIA: The Old Country // Kingdome Come Deliverance 2 // Mario maker 2",
+      "tag": "Live",
+      "image": "assets/images/samstag.jpg",
+      "imageAlt": "Samstag Stream Motiv"
+    },
+    {
+      "day": "Sonntag",
+      "dayEn": "Sunday",
+      "time": "ca. 16:00 Uhr",
+      "title": "🎮 MAFIA: The Old Country // Kingdome Come Deliverance 2 // Mario maker 2",
+      "tag": "Live",
+      "image": "assets/images/sonntag.jpg",
+      "imageAlt": "Sonntag Stream Motiv"
+    }
+  ]
+}
