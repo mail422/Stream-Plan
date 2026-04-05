@@ -14,7 +14,43 @@
     "note": "Check-in täglich zwischen 16:00 & 19:00 Uhr ✦ Solange der Vorrat reicht"
   },
   "days": [
+  {
+      "day": "Montag",
+      "dayEn": "Monday",
+      "time": "ca. 19:00 Uhr",
+      "title": "ðŸŽ® Just Chatting / Gaming",
+      "tag": "Live",
+      "image": "assets/images/montag.jpg",
+      "imageAlt": "Montag Stream Motiv"
+    },
     {
+      "day": "Dienstag",
+      "dayEn": "Tuesday",
+      "time": "ca. 19:00 Uhr",
+      "title": "ðŸŽ® Gaming",
+      "tag": "Live",
+      "image": "assets/images/dienstag.jpg",
+      "imageAlt": "Dienstag Stream Motiv"
+    },
+    {
+      "day": "Mittwoch",
+      "dayEn": "Wednesday",
+      "time": "ca. 19:00 Uhr",
+      "title": "ðŸŽ® Gaming",
+      "tag": "Live",
+      "image": "assets/images/mittwoch.jpg",
+      "imageAlt": "Mittwoch Stream Motiv"
+    },
+    {
+      "day": "Donnerstag",
+      "dayEn": "Thursday",
+      "time": "ca. 19:00 Uhr",
+      "title": "ðŸŽ® Gaming",
+      "tag": "Live",
+      "image": "assets/images/donnerstag.jpg",
+      "imageAlt": "Donnerstag Stream Motiv"
+    },  
+{
       "day": "Freitag",
       "dayEn": "Friday",
       "time": "ca. 19:00 Uhr",
