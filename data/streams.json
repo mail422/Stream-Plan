@@ -6,7 +6,7 @@
   },
   "header": {
     "title": "Stream Plan",
-    "subtitle": "20. - 26. APRIL 2026"
+    "subtitle": "27.04. - 03.05.2026"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
@@ -18,7 +18,7 @@
       "day": "Montag",
       "dayEn": "Monday",
       "time": "ab 19:00 Uhr",
-      "title": "🧨🤬 MONTAG IST BRUCH-TAG / Mario Maker 2 usw.",
+      "title": "🏨 Hotel öffnet wieder | REPLACED startet heute! Erste Eindrücke 👀",
       "tag": "Live",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
@@ -27,7 +27,7 @@
       "day": "Dienstag",
       "dayEn": "Tuesday",
       "time": "ab 19:00 Uhr",
-      "title": "🎮 Mouse P.I. for Hire / Für kriminelle Mäuse",
+      "title": "🏨 Lobby offen | ’83 erster Test – realistischer Shooter oder Chaos? 🎯",
       "tag": "Live",
       "image": "assets/images/dienstag.jpg",
       "imageAlt": "Dienstag Stream Motiv"
@@ -36,7 +36,7 @@
       "day": "Mittwoch",
       "dayEn": "Wednesday",
       "time": "ab 19:00 Uhr",
-      "title": "MIXED MITTWOCH - Finish MOUSE? oder doch KCD2",
+      "title": "🏨 Storyabend im Hotel | KCD2 geht weiter! ⚔️",
       "tag": "Live",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
@@ -45,7 +45,7 @@
       "day": "Donnerstag",
       "dayEn": "Thursday",
       "time": "ab 19:00 Uhr",
-      "title": "DÖNERBOX DONNERSTAG - Gemischt mit Alles & scharf",
+      "title": "🏨 Endlos Challenge heute | Wie weit kommen wir in Mario Maker? 😄",
       "tag": "Live",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
@@ -53,27 +53,27 @@
     {
       "day": "Freitag",
       "dayEn": "Friday",
-      "time": "STREAM OFF 🛌",
-      "title": "🚧 Geschlossene Gesellschaft - STREAM OFF",
-      "tag": "OFFLINE",
+      "time": "ab 19:00 Uhr",
+      "title": "🏨 REPLACED geht weiter | Pixel Cyberpunk Freitagabend 🌆",
+      "tag": "Live",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
     {
       "day": "Samstag",
       "dayEn": "Saturday",
-      "time": "STREAM OFF 🛌",
-      "title": "🚧 Geschlossene Gesellschaft - STREAM OFF",
-      "tag": "OFFLINE",
+      "time": "ab 19:00 Uhr",
+      "title": "🏨 Zuschauerlevel Abend! Baut ihr meine nächste Niederlage? 😏",
+      "tag": "Live",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
     },
     {
       "day": "Sonntag",
       "dayEn": "Sunday",
-      "time": "STREAM OFF 🛌",
-      "title": "🚧 Geschlossene Gesellschaft - STREAM OFF",
-      "tag": "OFFLINE",
+      "time": "ab 19:00 Uhr",
+      "title": "🏨 Ruhiger Storyabschluss | KCD2 am Sonntagabend ⚔️",
+      "tag": "Live",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
     }
