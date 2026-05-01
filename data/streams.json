@@ -54,8 +54,8 @@
       "day": "Freitag",
       "dayEn": "Friday",
       "time": "OFFLINE",
-      "title": "NO STREAM TODAY",
-      "tag": "Das Wetter ist zu schön um live zu sein",
+      "title": "Das Wetter ist zu schön um live zu sein",
+      "tag": "OFF",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
