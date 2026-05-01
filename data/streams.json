@@ -53,9 +53,9 @@
     {
       "day": "Freitag",
       "dayEn": "Friday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 REPLACED geht weiter | Pixel Cyberpunk Freitagabend 🌆",
-      "tag": "Live",
+      "time": "OFFLINE",
+      "title": "NO STREAM TODAY",
+      "tag": "Das Wetter ist zu schön um live zu sein",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
@@ -63,7 +63,7 @@
       "day": "Samstag",
       "dayEn": "Saturday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Zuschauerlevel Abend! Baut ihr meine nächste Niederlage? 😏",
+      "title": "🏨 REPLACED geht weiter | Pixel Cyberpunk Samstagabend 🌆",
       "tag": "Live",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
