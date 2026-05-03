@@ -6,7 +6,7 @@
   },
   "header": {
     "title": "Stream Plan",
-    "subtitle": "27.04. - 03.05.2026"
+    "subtitle": "04. - 10. MAI 2026"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
@@ -18,7 +18,7 @@
       "day": "Montag",
       "dayEn": "Monday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Hotel öffnet wieder | REPLACED startet heute! Erste Eindrücke 👀",
+      "title": "🏨 Hotel öffnet wieder | Weiter mit REPLACED – wird’s jetzt richtig gut? 🎮",
       "tag": "Live",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
@@ -26,9 +26,9 @@
     {
       "day": "Dienstag",
       "dayEn": "Tuesday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 Lobby offen | ’83 erster Test – realistischer Shooter oder Chaos? 🎯",
-      "tag": "Live",
+      "time": "OFFLINE",
+      "title": "🏨 Ruhetag im Hotel 😌 | Morgen geht’s weiter!",
+      "tag": "OFF",
       "image": "assets/images/dienstag.jpg",
       "imageAlt": "Dienstag Stream Motiv"
     },
@@ -36,7 +36,7 @@
       "day": "Mittwoch",
       "dayEn": "Wednesday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Storyabend im Hotel | KCD2 geht weiter! ⚔️",
+      "title": "🏨 Storyabend im Hotel | KCD2 Story geht weiter – mal sehen was heute passiert 👑",
       "tag": "Live",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
@@ -45,7 +45,7 @@
       "day": "Donnerstag",
       "dayEn": "Thursday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Endlos Challenge heute | Wie weit kommen wir in Mario Maker? 😄",
+      "title": "🏨 Lobby offen | Battlefield 6 Chaos am Abend 💥",
       "tag": "Live",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
@@ -54,7 +54,7 @@
       "day": "Freitag",
       "dayEn": "Friday",
       "time": "OFFLINE",
-      "title": "Das Wetter ist zu schön um live zu sein",
+      "title": "🏨 Heute Ruhetag im Hotel | Morgen ab 19 Uhr wieder geöffnet 👀",
       "tag": "OFF",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
@@ -63,7 +63,7 @@
       "day": "Samstag",
       "dayEn": "Saturday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 REPLACED geht weiter | Pixel Cyberpunk Samstagabend 🌆",
+      "title": "🏨 Zuschauerlevel Abend! Baut ihr meine Niederlage? 😏",
       "tag": "Live",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
@@ -72,7 +72,7 @@
       "day": "Sonntag",
       "dayEn": "Sunday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Ruhiger Storyabschluss | KCD2 am Sonntagabend ⚔️",
+      "title": "🏨 REPLACED Sonntagabend | entspannt weiter ✨",
       "tag": "Live",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
