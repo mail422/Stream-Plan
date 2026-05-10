@@ -5,8 +5,9 @@
     "logoMain": "HOTELIER"
   },
   "header": {
-    "title": "Stream Plan",
-    "subtitle": "04. - 10. MAI 2026"
+    "title": "Stream Plan
+              FANTASY BASEL WOCHE",
+    "subtitle": "11. - 17. MAI 2026"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
@@ -18,7 +19,7 @@
       "day": "Montag",
       "dayEn": "Monday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Hotel öffnet wieder | Weiter mit REPLACED – wird’s jetzt richtig gut? 🎮",
+      "title": "🏨 Hotel geöffnet | Spontaner Abendstream 👀",
       "tag": "Live",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
@@ -36,7 +37,7 @@
       "day": "Mittwoch",
       "dayEn": "Wednesday",
       "time": "ab 19:00 Uhr",
-      "title": "🏨 Storyabend im Hotel | KCD2 Story geht weiter – mal sehen was heute passiert 👑",
+      "title": "🏨 Lobby offen | Spontaner Midweek Stream ✨",
       "tag": "Live",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
@@ -44,36 +45,36 @@
     {
       "day": "Donnerstag",
       "dayEn": "Thursday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 Lobby offen | Battlefield 6 Chaos am Abend 💥",
-      "tag": "Live",
+      "time": "EVTL. LIVE",
+      "title": "🏨 Heute unterwegs auf der Fantasy Basel 🎭",
+      "tag": "?!",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
     },  
     {
       "day": "Freitag",
       "dayEn": "Friday",
-      "time": "OFFLINE",
-      "title": "🏨 Heute Ruhetag im Hotel | Morgen ab 19 Uhr wieder geöffnet 👀",
-      "tag": "OFF",
+      "time": "EVTL. LIVE",
+      "title": "🏨 Hotelcrew heute wieder auf der Fantasy Basel ✨",
+      "tag": "?!",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
     {
       "day": "Samstag",
       "dayEn": "Saturday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 Zuschauerlevel Abend! Baut ihr meine Niederlage? 😏",
-      "tag": "Live",
+      "time": "EVTL. LIVE",
+      "title": "🏨 Letzter Tag Fantasy Basel 👀",
+      "tag": "?!",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
     },
     {
       "day": "Sonntag",
       "dayEn": "Sunday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 REPLACED Sonntagabend | entspannt weiter ✨",
-      "tag": "Live",
+      "time": "OFFLINE",
+      "title": "🏨 Heute bleibt das Hotel geschlossen 😴 Nächste Woche wieder live! 🎮",
+      "tag": "OFF",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
     }
