@@ -6,7 +6,7 @@
   },
   "header": {
     "title": "Stream Plan",
-    "subtitle": "11. - 17. MAI 2026"
+    "subtitle": "OFFLINE IM URLAUB 18. MAI BIS 03. JUNI 2026"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
@@ -17,63 +17,63 @@
   {
       "day": "Montag",
       "dayEn": "Monday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 Hotel geöffnet | Spontaner Abendstream 👀",
-      "tag": "Live",
+      "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
     },
     {
       "day": "Dienstag",
       "dayEn": "Tuesday",
-      "time": "OFFLINE",
-      "title": "🏨 Ruhetag im Hotel 😌 | Morgen geht’s weiter!",
-      "tag": "OFF",
+      "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/dienstag.jpg",
       "imageAlt": "Dienstag Stream Motiv"
     },
     {
       "day": "Mittwoch",
       "dayEn": "Wednesday",
-      "time": "ab 19:00 Uhr",
-      "title": "🏨 Lobby offen | Spontaner Midweek Stream ✨",
-      "tag": "Live",
+       "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
     },
     {
       "day": "Donnerstag",
       "dayEn": "Thursday",
-      "time": "EVTL. LIVE",
-      "title": "🏨 Heute unterwegs auf der Fantasy Basel 🎭",
-      "tag": "?!",
+       "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
     },  
     {
       "day": "Freitag",
       "dayEn": "Friday",
-      "time": "EVTL. LIVE",
-      "title": "🏨 Hotelcrew heute wieder auf der Fantasy Basel ✨",
-      "tag": "?!",
+      "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
     {
       "day": "Samstag",
       "dayEn": "Saturday",
-      "time": "EVTL. LIVE",
-      "title": "🏨 Letzter Tag Fantasy Basel 👀",
-      "tag": "?!",
+       "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
     },
     {
       "day": "Sonntag",
       "dayEn": "Sunday",
-      "time": "OFFLINE",
-      "title": "🏨 Heute bleibt das Hotel geschlossen 😴 Nächste Woche wieder live! 🎮",
-      "tag": "OFF",
+       "time": "24/7",
+      "title": "🏨 Hotelier im URLAUB",
+      "tag": "LEBEN",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
     }
