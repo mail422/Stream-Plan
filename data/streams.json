@@ -6,7 +6,7 @@
   },
   "header": {
     "title": "Stream Plan",
-    "subtitle": "OFFLINE IM URLAUB 18. MAI BIS 03. JUNI 2026"
+    "subtitle": "KW 24 - 08. Juni bis 14. Juni 2026"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
@@ -17,17 +17,17 @@
   {
       "day": "Montag",
       "dayEn": "Monday",
-      "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+      "time": "ca. 19 Uhr",
+      "title": "🎨🏨 Disney Epic Mickey: Rebrushed startet heute! Zurück ins Wasteland 👀",
+      "tag": "LIVE",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
     },
     {
       "day": "Dienstag",
       "dayEn": "Tuesday",
-      "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
+      "time": "CLOSED",
+      "title": "🏨 Heute Ruhetag im Hotel 😌 Morgen geht das Abenteuer weiter!",
       "tag": "LEBEN",
       "image": "assets/images/dienstag.jpg",
       "imageAlt": "Dienstag Stream Motiv"
@@ -35,45 +35,45 @@
     {
       "day": "Mittwoch",
       "dayEn": "Wednesday",
-       "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+       "time": "ca. 19 Uhr",
+      "title": "🧠🏨 Psychonauts 2 – Verrückte Gedankenwelten & schräge Abenteuer 👀",
+      "tag": "LIVE",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
     },
     {
       "day": "Donnerstag",
       "dayEn": "Thursday",
-       "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+       "time": "ca. 19 Uhr",
+      "title": "🦖🏨 LEGO Horizon Adventures – Aloy, aber aus LEGO?! 😄",
+      "tag": "LIVE",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
     },  
     {
       "day": "Freitag",
       "dayEn": "Friday",
-      "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+      "time": "ca. 19 Uhr",
+      "title": "🎨🏨 Weiter mit Epic Mickey! Das Abenteuer nimmt Fahrt auf ✨",
+      "tag": "LIVE",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
     },
     {
       "day": "Samstag",
       "dayEn": "Saturday",
-       "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+       "time": "ca. 19 Uhr",
+      "title": "🧠🏨 Psychonauts 2 geht weiter – was geht in diesen Köpfen vor? 🤯",
+      "tag": "LIVE",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
     },
     {
       "day": "Sonntag",
       "dayEn": "Sunday",
-       "time": "24/7",
-      "title": "🏨 Hotelier im URLAUB",
-      "tag": "LEBEN",
+       "time": "ca. 19 Uhr",
+      "title": "🦖🏨 Entspannter Sonntagsstream mit LEGO Horizon Adventures ☕🎮",
+      "tag": "LIVE",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
     }
