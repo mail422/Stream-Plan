@@ -6,19 +6,19 @@
   },
   "header": {
     "title": "Stream Plan",
-    "subtitle": "KW 24 - 08. Juni bis 14. Juni 2026"
+    "subtitle": "BIS AUF WEITERES AUFGRUND HOHER AUSLASTUNG<br><br>GAME WÜNSCHE GERNE IM OFF-CHAT AUF TWITCH"
   },
   "footer": {
     "buttonText": "twitch.tv/thehotelier",
     "buttonUrl": "https://twitch.tv/thehotelier",
-    "note": "Check-in täglich zwischen 16:00 & 19:00 Uhr ✦ Solange der Vorrat reicht"
+    "note": "Check-in täglich zwischen 18:00 & 20:00 Uhr ✦ Solange der Vorrat reicht"
   },
   "days": [
   {
       "day": "Montag",
       "dayEn": "Monday",
       "time": "ca. 19 Uhr",
-      "title": "🎨🏨 Disney Epic Mickey: Rebrushed startet heute! Zurück ins Wasteland 👀",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/montag.jpg",
       "imageAlt": "Montag Stream Motiv"
@@ -26,9 +26,9 @@
     {
       "day": "Dienstag",
       "dayEn": "Tuesday",
-      "time": "CLOSED",
-      "title": "🏨 Heute Ruhetag im Hotel 😌 Morgen geht das Abenteuer weiter!",
-      "tag": "LEBEN",
+      "time": "ca. 19 Uhr",
+      "title": "Spontane Action",
+      "tag": "LIVE",
       "image": "assets/images/dienstag.jpg",
       "imageAlt": "Dienstag Stream Motiv"
     },
@@ -36,7 +36,7 @@
       "day": "Mittwoch",
       "dayEn": "Wednesday",
        "time": "ca. 19 Uhr",
-      "title": "🧠🏨 Psychonauts 2 – Verrückte Gedankenwelten & schräge Abenteuer 👀",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/mittwoch.jpg",
       "imageAlt": "Mittwoch Stream Motiv"
@@ -45,7 +45,7 @@
       "day": "Donnerstag",
       "dayEn": "Thursday",
        "time": "ca. 19 Uhr",
-      "title": "🦖🏨 LEGO Horizon Adventures – Aloy, aber aus LEGO?! 😄",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/donnerstag.jpg",
       "imageAlt": "Donnerstag Stream Motiv"
@@ -54,7 +54,7 @@
       "day": "Freitag",
       "dayEn": "Friday",
       "time": "ca. 19 Uhr",
-      "title": "🎨🏨 Weiter mit Epic Mickey! Das Abenteuer nimmt Fahrt auf ✨",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/freitag.jpg",
       "imageAlt": "Freitag Stream Motiv"
@@ -63,7 +63,7 @@
       "day": "Samstag",
       "dayEn": "Saturday",
        "time": "ca. 19 Uhr",
-      "title": "🧠🏨 Psychonauts 2 geht weiter – was geht in diesen Köpfen vor? 🤯",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/samstag.jpg",
       "imageAlt": "Samstag Stream Motiv"
@@ -72,7 +72,7 @@
       "day": "Sonntag",
       "dayEn": "Sunday",
        "time": "ca. 19 Uhr",
-      "title": "🦖🏨 Entspannter Sonntagsstream mit LEGO Horizon Adventures ☕🎮",
+      "title": "Spontane Action",
       "tag": "LIVE",
       "image": "assets/images/sonntag.jpg",
       "imageAlt": "Sonntag Stream Motiv"
